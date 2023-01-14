@@ -16,26 +16,26 @@ You will need to have the following libraries installed:
 
 You can install them by running the following command:
 
-pip install numpy requests json attrdict
+    pip install numpy requests json attrdict
 
 You will also need an API key from Oanda, which can be obtained by creating an account on the Oanda website.
 ### Installing
 
-    Clone the repository
+Clone the repository
 
-git clone https://github.com/<username>/monte-carlo-option-pricing.git
+    git clone https://github.com/77zv/options-pricing-engine.git
 
-    Enter the project directory
+Enter the project directory
 
-cd monte-carlo-option-pricing
+    cd options-pricing-engine
 
-    Create a new file called config.py in the project directory and add the following line to it, replacing YOUR_API_KEY with your actual Oanda API key
+Create a new file called config.py in the project directory and add the following line to it, replacing YOUR_API_KEY with your actual Oanda API key
 
-OANDA_API_KEY = "YOUR_API_KEY"
+    API_KEY = "YOUR_API_KEY"
 
-    Run the main script
+Run the main script
 
-python main.py
+    python main.py
 
 The program will output the call price and put price for the option.
 ## Built With
