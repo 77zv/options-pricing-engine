@@ -47,12 +47,11 @@ The program will output the call price and put price for the option.
 
 ## Authors
 
-    Ghaith Khalil - Initial work
+    Antony Li - Initial work
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-Acknowledgments
 
 ## Note
 
