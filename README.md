@@ -11,8 +11,6 @@ You will need to have the following libraries installed:
 
     numpy
     requests
-    json
-    attrdict
 
 You can install them by running the following command:
 
