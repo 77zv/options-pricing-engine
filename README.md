@@ -41,7 +41,6 @@ The program will output the call price and put price for the option.
     numpy - Used for array operations
     requests - Used for making HTTP requests
     json - Used for parsing JSON data
-    attrdict - Used for converting dictionaries to objects, allowing dot notation to access keys.
 
 ## Authors
 
